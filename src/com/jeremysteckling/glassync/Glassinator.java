@@ -26,9 +26,9 @@ public class Glassinator {
 
 	private static final String TIMELINE_URL = "https://www.googleapis.com/mirror/v1/timeline";
 
-	private static final String API_KEY = "AIzaSyAndnd1OmKXMsL2UrMFWuuvfCj1HuvvGwI";
-	private static final String CLIENT_ID = "52972548252.apps.googleusercontent.com";
-	private static final String CLIENT_SECRET = "ib4lQEsbO_Ox9pF8dmRQmUuG";
+	private static final String API_KEY = "";
+	private static final String CLIENT_ID = "";
+	private static final String CLIENT_SECRET = "";
 
 	private String token;
 	private HandlerThread handlerThread;
